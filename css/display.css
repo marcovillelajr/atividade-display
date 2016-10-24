@@ -1,0 +1,13 @@
+.exercicio-display {
+	display: block;
+	margin: 0px auto;
+}
+
+.title-display {
+	text-align: center;
+}
+
+article {
+	max-width: 1260px;
+	margin: 0 auto;
+}
